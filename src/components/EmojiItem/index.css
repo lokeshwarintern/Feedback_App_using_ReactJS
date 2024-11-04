@@ -1,0 +1,16 @@
+.list-ele {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 12px;
+}
+
+.btn-ele {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.img-ele {
+  height: 100px;
+}

@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.bg-container {
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.response-card {
+  width: 500px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 14px;
+}
+
+.ul-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.heading-ele {
+  font-family: Roboto;
+  text-align: center;
+}
